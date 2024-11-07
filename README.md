@@ -23,6 +23,16 @@ You’ll gain access to technical articles that cover a wide range of generative
 | **Applications of Generative AI**     | Overview of text generation, Image generation.                                                     |
 
 To learn more about Generative AI Projects, visit our website! And don’t forget to check out our Ebooks and Guides.✅
+<div align="center">
+
+[![Visit Our Website](https://img.shields.io/badge/Visit%20Our%20Website-6a0dad?style=for-the-badge)](https://www.projectpro.io/)
+
+</div>
+<div align="center">
+
+[![Ebooks and Guides](https://img.shields.io/badge/Ebooks%20and%20Guides-20c997?style=for-the-badge)](https://www.projectpro.io/free-learning-resources)
+
+</div>
 
 ## 📚Contribution Guidelines  
 Thank you for wanting to contribute to ProjectPro Repo. Your insights and feedback will help others learn and grow through our high-quality blogs, tutorials, and guides/e-books/case studies.
