@@ -1,4 +1,4 @@
-# <div align="center">⚡Welcome to the Gen AI Projects repository! ⚡</div>
+# <div align="center">⚡Welcome to the Gen AI Projects Repository! ⚡</div>
 
 This repository offers Generative AI resources including blogs, tutorials, and projects designed to help you master generative AI and create industry-level projects. You will learn everything starting from basic gen AI concepts to advanced concepts like GANs, Autoregressive models, fine-tuning, and training models. Whether you're just starting out or looking to be an industry player, check out our content list to explore more!
 
