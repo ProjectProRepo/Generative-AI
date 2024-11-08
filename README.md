@@ -13,7 +13,7 @@ You’ll gain access to technical articles that cover a wide range of generative
 | **Generative Adversarial Networks (GANs)** | Overview of GAN Architecture, Key Concepts, Implementation.                                         |
 | **Autoregressive Models**             | Overview of autoregressive models, Implementation, transformer models.                             |
 | **Getting Started with LLMs**         | A handbook on setting up LLMs, fine-tuning techniques and deployment strategies.                   |
-| **Evaluation and Fine-Tuning**        | Hands-on practice on fine-tuning pre-trained generative models for specific tasks.                 |
+| **Evaluation and Fine-Tuning**        | Hands-on practice on fine-tuning pre-trained generative models for specific tasks and use cases.                 |
 | **Applications of Generative AI**     | Overview of text generation, Image generation.                                                     |
 
 To learn more about Generative AI Projects, visit our website! And don’t forget to check out ProjectPro Generative AI Learning Path.✅
