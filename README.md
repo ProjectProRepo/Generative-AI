@@ -16,16 +16,6 @@ You’ll gain access to technical articles that cover a wide range of generative
 | **Evaluation and Fine-Tuning**        | Hands-on practice on fine-tuning pre-trained generative models for specific tasks and use cases.                 |
 | **Applications of Generative AI**     | Overview of text generation, Image generation.                                                     |
 
-To learn more about Generative AI Projects, visit our website! And don’t forget to check out ProjectPro Generative AI Learning Path.✅
-
-<p align="center">
-  <a href="https://www.projectpro.io/learning-paths/generative-ai-learning-path" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Check%20out%20the%20learning%20path-28a745?style=for-the-badge&logo=none&logoColor=white" alt="Check out the learning path">
-  </a>
-</p>
-
-# Generative AI Learning Resources
-
 ## 📚 Fundamentals of Generative AI
 Explore the foundation of Generative AI, its real-world applications, and its potential across industries.
 
@@ -98,6 +88,16 @@ Get started with these amazing freebies!
 
 ## 🎓 Ready to Get Certified?
 Take your skills to the next level with our Generative AI Course and become an expert in no time!
+
+To learn more about Generative AI Projects, visit our website! And don’t forget to check out ProjectPro Generative AI Learning Path.✅
+
+<p align="center">
+  <a href="https://www.projectpro.io/learning-paths/generative-ai-learning-path" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Check%20out%20the%20learning%20path-28a745?style=for-the-badge&logo=none&logoColor=white" alt="Check out the learning path">
+  </a>
+</p>
+
+# Generative AI Learning Resources
 
 ## 💬 Contact Us  
 Have questions or suggestions, or you just want to check out our projects? Reach out to us:  
