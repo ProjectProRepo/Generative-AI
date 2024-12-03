@@ -20,7 +20,7 @@ You’ll gain access to technical articles that cover a wide range of generative
 ## 📚 Fundamentals of Generative AI
 Explore the foundation of Generative AI, its real-world applications, and its potential across industries.
 
-- 📝 Use Cases and Applications
+- 📝 Use Cases and Applications <https://www.projectpro.io/article/generative-ai-use-cases-and-applications/1011>
 - 🎙️ Generative AI Ecosystem
 - 🎙️ Predictive AI vs Generative AI
 - 🎙️ Transformative Power of Generative AI Solutions
