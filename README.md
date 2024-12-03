@@ -16,6 +16,7 @@ You’ll gain access to technical articles that cover a wide range of generative
 | **Evaluation and Fine-Tuning**        | Hands-on practice on fine-tuning pre-trained generative models for specific tasks and use cases.                 |
 | **Applications of Generative AI**     | Overview of text generation, Image generation.                                                     |
 
+# Generative AI Learning Resources
 ## 📚 Fundamentals of Generative AI
 Explore the foundation of Generative AI, its real-world applications, and its potential across industries.
 
@@ -96,8 +97,6 @@ To learn more about Generative AI Projects, visit our website! And don’t forge
     <img src="https://img.shields.io/badge/Check%20out%20the%20learning%20path-28a745?style=for-the-badge&logo=none&logoColor=white" alt="Check out the learning path">
   </a>
 </p>
-
-# Generative AI Learning Resources
 
 ## 💬 Contact Us  
 Have questions or suggestions, or you just want to check out our projects? Reach out to us:  
