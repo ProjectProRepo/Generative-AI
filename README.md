@@ -17,70 +17,80 @@ You’ll gain access to technical articles that cover a wide range of generative
 | **Applications of Generative AI**     | Overview of text generation, Image generation.                                                     |
 
 # Generative AI Learning Resources
+
 ## 📚 Fundamentals of Generative AI
 Explore the foundation of Generative AI, its real-world applications, and its potential across industries.
 
-- 📝 Use Cases and Applications <https://www.projectpro.io/article/generative-ai-use-cases-and-applications/1011>
-- 🎙️ Generative AI Ecosystem
-- 🎙️ Predictive AI vs Generative AI
-- 🎙️ Transformative Power of Generative AI Solutions
+- 📝 [Use Cases and Applications](<https://www.projectpro.io/article/generative-ai-use-cases-and-applications/1011>)
+- 🎙️ [Generative AI Ecosystem](<URL>)
+- 🎙️ [Predictive AI vs Generative AI](<URL>)
+- 🎙️ [Transformative Power of Generative AI Solutions](<URL>)
 
 ### 🌍 Industry-Specific Insights:
-- 🎙️ Generative AI for Sales
-- 🎙️ Generative AI in Oil and Gas
-- 🎙️ Enterprise Adoption of Generative AI
-- 📝 Generative AI in Retail
-- 📝 Generative AI for Finance
-- 🎙️ Generative AI in Insurance
-- 🎙️ Energy and Utilities
+- 🎙️ [Generative AI for Sales](<URL>)
+- 🎙️ [Generative AI in Oil and Gas](<URL>)
+- 🎙️ [Enterprise Adoption of Generative AI](<URL>)
+- 📝 [Generative AI in Retail](<URL>)
+- 📝 [Generative AI for Finance](<URL>)
+- 🎙️ [Generative AI in Insurance](<URL>)
+- 🎙️ [Energy and Utilities](<URL>)
 
 ## 🤖 Explore GANs and Autoregressive Models
 Gain hands-on understanding of the algorithms driving Generative AI.
 
-- 📝 Generative Adversarial Networks (GANs)
-- 📝 What Are Decoders or Autoregressive Models?
+- 📝 [Generative Adversarial Networks (GANs)](<URL>)
+- 📝 [What Are Decoders or Autoregressive Models?](<URL>)
 
 ## 🧠 Getting Started with Large Language Models (LLMs)
 Explore the secrets behind LLMs, their architecture, and their practical applications.
 
-- 📝 Introduction to Large Language Models
-- 📝 Chain of Thought Prompting
-- 📝 LLM Parameters
-- 📝 Limitations of LLMs
+- 📝 [Introduction to Large Language Models](<URL>)
+- 📝 [Chain of Thought Prompting](<URL>)
+- 📝 [LLM Parameters](<URL>)
+- 📝 [Limitations of LLMs](<URL>)
 
 ### 💡 Comparison and Ideas:
-- Foundational Models vs Large Language Models
-- LLM Project Ideas
+- [Foundational Models vs Large Language Models](<URL>)
+- [LLM Project Ideas](<URL>)
 
 ## 🔧 Model Evaluation and Fine-Tuning
 Take your AI models to the next level with these resources.
 
-- 📝 Evaluation Techniques for LLMs
-- 📝 Fine-Tune Large Language Models
-- 🛠️ Top Generative AI Tools
+- 📝 [Evaluation Techniques for LLMs](<URL>)
+- 📝 [Fine-Tune Large Language Models](<URL>)
+- 🛠️ [Top Generative AI Tools](<URL>)
 
 ## 🌐 GenAI Applications and Use Cases
 Discover how Generative AI is transforming industries and powering innovative applications.
 
-- 🎙️ Generative AI Application Landscape
-- 🎙️ LLMs for Code Generation
-- 📝 Generative AI Projects
-- 📝 LangChain
-- 📝 Using the Llama2 Model
+- 🎙️ [Generative AI Application Landscape](<URL>)
+- 🎙️ [LLMs for Code Generation](<URL>)
+- 📝 [Generative AI Projects](<URL>)
+- 📝 [LangChain](<URL>)
+- 📝 [Using the Llama2 Model](<URL>)
 
 ## 🎓 Career Guidance
 Prepare yourself for the Generative AI job market with these resources.
 
-- 📝 Generative AI Certifications
-- 📝 AWS Generative AI Certification
-- 📝 Generative AI Interview Questions
+- 📝 [Generative AI Certifications](<URL>)
+- 📝 [AWS Generative AI Certification](<URL>)
+- 📝 [Generative AI Interview Questions](<URL>)
 
 ## 🚀 Projects to Elevate Your Learning
 Hands-on learning is the best way to master Generative AI! Start with these beginner-to-advanced projects.
 
-- 🛠️ Streamlit LangChain Chatbot
-- 🛠️ Build and Fine-Tune an LLM
-- 🛠️ Time Series Autoregressive Model
+- 🛠️ [Streamlit LangChain Chatbot](<URL>)
+- 🛠️ [Build and Fine-Tune an LLM](<URL>)
+- 🛠️ [Time Series Autoregressive Model](<URL>)
+
+## 🎁 Free Resources
+Get started with these amazing freebies!
+
+- 📄 [Generative AI Interview Questions (PDF)](<URL>)
+
+## 🎓 Ready to Get Certified?
+Take your skills to the next level with our Generative AI Course and become an expert in no time! [Enroll Now](<URL>)
+
 
 ## 🎁 Free Resources
 Get started with these amazing freebies!
