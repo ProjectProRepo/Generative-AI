@@ -22,83 +22,74 @@ You’ll gain access to technical articles that cover a wide range of generative
 Explore the foundation of Generative AI, its real-world applications, and its potential across industries.
 
 - 📝 [Use Cases and Applications](<https://www.projectpro.io/article/generative-ai-use-cases-and-applications/1011>)
-- 🎙️ [Generative AI Ecosystem](<URL>)
-- 🎙️ [Predictive AI vs Generative AI](<URL>)
-- 🎙️ [Transformative Power of Generative AI Solutions](<URL>)
+- 🎙️ [Generative AI Ecosystem](<https://www.projectpro.io/podcast/title/generative-ai-ecosystem>)
+- 🎙️ [Predictive AI vs Generative AI](<https://www.projectpro.io/podcast/title/predictive-ai-vs-generative-ai>)
+- 🎙️ [Transformative Power of Generative AI Solutions](<https://www.projectpro.io/podcast/title/transformative-power-of-generative-ai-solutions>)
 
 ### 🌍 Industry-Specific Insights:
-- 🎙️ [Generative AI for Sales](<URL>)
-- 🎙️ [Generative AI in Oil and Gas](<URL>)
-- 🎙️ [Enterprise Adoption of Generative AI](<URL>)
-- 📝 [Generative AI in Retail](<URL>)
-- 📝 [Generative AI for Finance](<URL>)
-- 🎙️ [Generative AI in Insurance](<URL>)
-- 🎙️ [Energy and Utilities](<URL>)
+- 🎙️ [Generative AI for Sales](<https://www.projectpro.io/podcast/title/generative-ai-for-sales>)
+- 🎙️ [Generative AI in Oil and Gas](<https://www.projectpro.io/podcast/title/generative-ai-in-oil-and-gas>)
+- 🎙️ [Enterprise Adoption of Generative AI](<https://www.projectpro.io/podcast/title/enterprise-adoption-of-generative-ai>)
+- 📝 [Generative AI in Retail](<https://www.projectpro.io/article/generative-ai-in-retail/1031>)
+- 📝 [Generative AI for Finance](<https://www.projectpro.io/article/generative-ai-for-finance/1037>)
+- 🎙️ [Generative AI in Insurance](<https://www.projectpro.io/podcast/title/generative-ai-in-insurance>)
+- 🎙️ [Energy and Utilities](<https://www.projectpro.io/podcast/title/generative-ai-energy-and-utilities>)
 
 ## 🤖 Explore GANs and Autoregressive Models
 Gain hands-on understanding of the algorithms driving Generative AI.
 
-- 📝 [Generative Adversarial Networks (GANs)](<URL>)
-- 📝 [What Are Decoders or Autoregressive Models?](<URL>)
+- 📝 [Generative Adversarial Networks (GANs)](<https://www.projectpro.io/article/generative-adversarial-networks-gan-based-projects-to-work-on/530>)
+- 📝 [What Are Decoders or Autoregressive Models?](<https://www.projectpro.io/recipes/what-are-decoders-or-autoregressive-models-transformers>)
 
 ## 🧠 Getting Started with Large Language Models (LLMs)
 Explore the secrets behind LLMs, their architecture, and their practical applications.
 
-- 📝 [Introduction to Large Language Models](<URL>)
-- 📝 [Chain of Thought Prompting](<URL>)
-- 📝 [LLM Parameters](<URL>)
-- 📝 [Limitations of LLMs](<URL>)
+- 📝 [Introduction to Large Language Models](<https://www.projectpro.io/article/large-language-models/958>)
+- 📝 [Chain of Thought Prompting](<https://www.projectpro.io/article/chain-of-thought-prompting-in-llms/981>)
+- 📝 [LLM Parameters](<https://www.projectpro.io/article/llm-parameters/1029>)
+- 📝 [Limitations of LLMs](<https://www.projectpro.io/article/llm-limitations/1045>)
 
 ### 💡 Comparison and Ideas:
-- [Foundational Models vs Large Language Models](<URL>)
-- [LLM Project Ideas](<URL>)
+- [Foundational Models vs Large Language Models](<https://www.projectpro.io/article/foundational-models-vs-large-language-models/893>)
+- [LLM Project Ideas](<https://www.projectpro.io/article/llm-project-ideas/881>)
 
 ## 🔧 Model Evaluation and Fine-Tuning
 Take your AI models to the next level with these resources.
 
-- 📝 [Evaluation Techniques for LLMs](<URL>)
-- 📝 [Fine-Tune Large Language Models](<URL>)
-- 🛠️ [Top Generative AI Tools](<URL>)
+- 📝 [Evaluation Techniques for LLMs](<https://www.projectpro.io/article/llm-evaluation/1032>)
+- 📝 [Fine-Tune Large Language Models](<https://www.projectpro.io/article/fine-tune-llms/974>)
+- 🛠️ [Top Generative AI Tools](<https://www.projectpro.io/article/generative-ai-tools/1035>)
 
 ## 🌐 GenAI Applications and Use Cases
 Discover how Generative AI is transforming industries and powering innovative applications.
 
-- 🎙️ [Generative AI Application Landscape](<URL>)
-- 🎙️ [LLMs for Code Generation](<URL>)
-- 📝 [Generative AI Projects](<URL>)
-- 📝 [LangChain](<URL>)
-- 📝 [Using the Llama2 Model](<URL>)
+- 🎙️ [Generative AI Application Landscape](<https://www.projectpro.io/podcast/title/generative-ai-application-landscape>)
+- 🎙️ [LLMs for Code Generation](<https://www.projectpro.io/podcast/title/llms-for-code-generation>)
+- 📝 [Generative AI Projects](<https://www.projectpro.io/article/generative-ai-projects/1004>)
+- 📝 [LangChain](<https://www.projectpro.io/article/langchain/894>)
+- 📝 [Using the Llama2 Model](<https://www.projectpro.io/article/how-to-use-llama2-model/997>)
 
 ## 🎓 Career Guidance
 Prepare yourself for the Generative AI job market with these resources.
 
-- 📝 [Generative AI Certifications](<URL>)
-- 📝 [AWS Generative AI Certification](<URL>)
-- 📝 [Generative AI Interview Questions](<URL>)
+- 📝 [Generative AI Certifications](<https://www.projectpro.io/article/generative-ai-certifications/1017>)
+- 📝 [AWS Generative AI Certification](<https://www.projectpro.io/article/aws-generative-ai-certification/1057>)
+- 📝 [Generative AI Interview Questions](<https://www.projectpro.io/article/generative-ai-interview-questions-and-answers/1051>)
 
 ## 🚀 Projects to Elevate Your Learning
 Hands-on learning is the best way to master Generative AI! Start with these beginner-to-advanced projects.
 
-- 🛠️ [Streamlit LangChain Chatbot](<URL>)
-- 🛠️ [Build and Fine-Tune an LLM](<URL>)
-- 🛠️ [Time Series Autoregressive Model](<URL>)
+- 🛠️ [Streamlit LangChain Chatbot](<https://www.projectpro.io/project-use-case/streamlit-langchain-chatbot>)
+- 🛠️ [Build and Fine-Tune an LLM](<https://www.projectpro.io/project-use-case/llm-project-for-beginners-to-build-and-fine-tune-an-llm>)
+- 🛠️ [Time Series Autoregressive Model](<https://www.projectpro.io/project-use-case/time-series-projects-autoregressive-model-python>)
 
 ## 🎁 Free Resources
 Get started with these amazing freebies!
 
-- 📄 [Generative AI Interview Questions (PDF)](<URL>)
+- 📄 [Generative AI Interview Questions (PDF)](<https://www.projectpro.io/free-learning-resources/generative-ai-interview-questions-and-answers-pdf>)
 
 ## 🎓 Ready to Get Certified?
-Take your skills to the next level with our Generative AI Course and become an expert in no time! [Enroll Now](<URL>)
-
-
-## 🎁 Free Resources
-Get started with these amazing freebies!
-
-- 📄 Generative AI Interview Questions (PDF)
-
-## 🎓 Ready to Get Certified?
-Take your skills to the next level with our Generative AI Course and become an expert in no time!
+Take your skills to the next level with our Generative AI Course and become an expert in no time! [Enroll Now](https://www.projectpro.io/course/generative-ai-course)
 
 To learn more about Generative AI Projects, visit our website! And don’t forget to check out ProjectPro Generative AI Learning Path.✅
 
