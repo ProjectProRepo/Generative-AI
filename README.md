@@ -88,9 +88,6 @@ Get started with these amazing freebies!
 
 - 📄 [Generative AI Interview Questions (PDF)](<https://www.projectpro.io/free-learning-resources/generative-ai-interview-questions-and-answers-pdf>)
 
-## 🎓 Ready to Get Certified?
-Take your skills to the next level with our Generative AI Course and become an expert in no time! [Enroll Now](https://www.projectpro.io/course/generative-ai-course)
-
 To learn more about Generative AI Projects, visit our website! And don’t forget to check out ProjectPro Generative AI Learning Path.✅
 
 <p align="center">
