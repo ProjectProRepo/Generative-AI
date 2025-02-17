@@ -68,6 +68,7 @@ Discover how Generative AI is transforming industries and powering innovative ap
 - 📝 [Generative AI Projects](<https://www.projectpro.io/article/generative-ai-projects/1004>)
 - 📝 [LangChain](<https://www.projectpro.io/article/langchain/894>)
 - 📝 [Using the Llama2 Model](<https://www.projectpro.io/article/how-to-use-llama2-model/997>)
+- 📝 [How to Build Generative AI Applications](https://www.projectpro.io/article/how-to-build-generative-ai-applications/1098)
 
 ## 🎓 Career Guidance
 Prepare yourself for the Generative AI job market with these resources.
