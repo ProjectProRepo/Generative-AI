@@ -22,6 +22,7 @@ You’ll gain access to technical articles that cover a wide range of generative
 Explore the foundation of Generative AI, its real-world applications, and its potential across industries.
 
 - 📝 [Use Cases and Applications](<https://www.projectpro.io/article/generative-ai-use-cases-and-applications/1011>)
+- 📝 [Agentic AI vs Generative AI](https://www.projectpro.io/article/agentic-ai-vs-generative-ai/1105)
 - 🎙️ [Generative AI Ecosystem](<https://www.projectpro.io/podcast/title/generative-ai-ecosystem>)
 - 🎙️ [Predictive AI vs Generative AI](<https://www.projectpro.io/podcast/title/predictive-ai-vs-generative-ai>)
 - 🎙️ [Transformative Power of Generative AI Solutions](<https://www.projectpro.io/podcast/title/transformative-power-of-generative-ai-solutions>)
@@ -69,6 +70,8 @@ Discover how Generative AI is transforming industries and powering innovative ap
 - 📝 [LangChain](<https://www.projectpro.io/article/langchain/894>)
 - 📝 [Using the Llama2 Model](<https://www.projectpro.io/article/how-to-use-llama2-model/997>)
 - 📝 [How to Build Generative AI Applications](https://www.projectpro.io/article/how-to-build-generative-ai-applications/1098)
+- 📝 [How to Get Started with Microsoft Phi-4 Multimodal Model?](https://www.projectpro.io/article/phi-4-multimodal/1112)
+- 📝 [How to USe Ollama to run LLMs locally?]([https://www.projectpro.io/article/agentic-ai-vs-generative-ai/1105](https://www.projectpro.io/article/how-to-use-ollama/1110))
 
 ## 🎓 Career Guidance
 Prepare yourself for the Generative AI job market with these resources.
