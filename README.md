@@ -71,7 +71,7 @@ Discover how Generative AI is transforming industries and powering innovative ap
 - 📝 [Using the Llama2 Model](<https://www.projectpro.io/article/how-to-use-llama2-model/997>)
 - 📝 [How to Build Generative AI Applications](https://www.projectpro.io/article/how-to-build-generative-ai-applications/1098)
 - 📝 [How to Get Started with Microsoft Phi-4 Multimodal Model?](https://www.projectpro.io/article/phi-4-multimodal/1112)
-- 📝 [How to USe Ollama to run LLMs locally?]([https://www.projectpro.io/article/agentic-ai-vs-generative-ai/1105](https://www.projectpro.io/article/how-to-use-ollama/1110))
+- 📝 [How to USe Ollama to run LLMs locally?](https://www.projectpro.io/article/how-to-use-ollama/1110)
 
 ## 🎓 Career Guidance
 Prepare yourself for the Generative AI job market with these resources.
