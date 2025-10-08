@@ -86,7 +86,7 @@ Hands-on learning is the best way to master Generative AI! Start with these begi
 - [Streamlit LangChain Chatbot](<https://www.projectpro.io/project-use-case/streamlit-langchain-chatbot>)
 - [Build and Fine-Tune an LLM](<https://www.projectpro.io/project-use-case/llm-project-for-beginners-to-build-and-fine-tune-an-llm>)
 - [Time Series Autoregressive Model](<https://www.projectpro.io/project-use-case/time-series-projects-autoregressive-model-python>)
-- [Customer Support Agent Using AzureML and OpenAI](https://www.projectpro.io/project-use-case/customer-support-agent-using-azureml-and-openai
+- [Customer Support Agent Using AzureML and OpenAI](https://www.projectpro.io/project-use-case/customer-support-agent-using-azureml-and-openai)
 - [Text-to-SQL LLM](https://www.projectpro.io/project-use-case/text-2-sql-llm)
 - [AI Resume Analyzer](https://www.projectpro.io/project-use-case/ai-resume-analyzer-project-with-source-code)
 - [AI Video Summarization](https://www.projectpro.io/project-use-case/ai-video-summarization-project)
